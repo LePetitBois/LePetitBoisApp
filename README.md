@@ -1,2 +1,2 @@
 # LePetitBoisApp
-Le petit bois derière chez moi
+Le petit bois derrière chez moi
