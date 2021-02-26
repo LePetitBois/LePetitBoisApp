@@ -1,5 +1,7 @@
 FROM gitpod/workspace-full
 
+RUN npm install -g @vue/cli
+
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
 # RUN brew install bastet
